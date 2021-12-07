@@ -5,7 +5,7 @@ Get started with just Python
 This template robot:
 
 - Uses only Python 
-- Provides a simple template to start from (`tasks.py`).
+- Provides a simple template to start from (`main.py`).
 
 ## Learning materials
 
